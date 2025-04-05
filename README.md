@@ -1,0 +1,5 @@
+- 👋 Hi, I’m DahMaus
+- 👀 I’m interested in: GameDev
+- 🌱 I’m currently learning: 2D GameDev
+- 📫 How to reach me? : You cant lmao
+- ⚡ Fun fact: I like mice and rats
