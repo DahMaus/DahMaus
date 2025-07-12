@@ -1,5 +1,1 @@
-- 👋 Hi, I’m DahMaus
-- 👀 I’m interested in: GameDev
-- 🌱 I’m currently learning: 2D GameDev
-- 📫 How to reach me? : You cant lmao
-- ⚡ Fun fact: I like mice and rats
+DahMaus here im a Gamedev in c# Unity and also trying myself in music out :D
