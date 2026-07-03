@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### gamedev and software 🔥🔥🔥
+### PROgramming 🔥🔥🔥
 *making slop games AND software*
 
 <img src="https://raw.githubusercontent.com/DahMaus/DahMaus/main/cert_14.png" width="400" alt="Game Jam Certificate">
@@ -11,7 +11,7 @@
 
 ### Tech skills on sum amazing shi
 
-| Field | Technologies |
+| Field | Tech |
 | :--- | :--- |
 | **Game Dev** | **Unity (Main)**, **Godot (Learning)** |
 | **App Dev** | Android (Java & Kotlin) |
