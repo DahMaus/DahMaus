@@ -1,7 +1,7 @@
-## Hi there! I'm [Your Name/Handle]
+## Hola!!! im DahMaus
 <div align="center">
 ### gamedev and software 🔥🔥🔥🔥🔥
-*Building immersive experiences and exploring the digital frontier.*
+*makiinf slop games AND software*
 <img src="[https://raw.githubusercontent.com/DahMaus/DahMaus/main/cert_14.png](https://raw.githubusercontent.com/DahMaus/DahMaus/main/cert_14.png)" width="400" alt="Game Jam Certificate">
 </div>
 ###  Tech skills on sum amazing shi
