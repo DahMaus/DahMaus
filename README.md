@@ -1,7 +1,3 @@
-Gamedev shi in unity
-
-dabbling in sum java and kotlin for android appdev
-
-making mc java mods
-
-currently learnin c++ on sum maus type shi 🗣️
+Unity Game Dev (Main) 
+Godot Game Dev (Side, won a gamejam) 
+![Project Banner](https://raw.githubusercontent.com/DahMaus/DahMaus/main/cert_14.png)
