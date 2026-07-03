@@ -19,10 +19,10 @@
 | **Modding** | Minecraft Java |
 | **Security** | Cyber Security (Currently Learning) |
 
-### Current shi
+### Current focus shi
 * **GameDev** Mostly in Unity, 2D is my strength can make 3d also tho
-* **Cyber Sec:** Junior, still learning ts shi
-* **Automation:** Python bots on sum criminal shi 🔥🔥🔥jk made a survey bot (got banned 🥀)
+* **Cyber Sec:** learning with labs
+* **Automation:** Python bots on sum criminal shi 🔥🔥🔥 jk made a survey bot (got banned 🥀)
 
 ### 🏆 gamejam
 * **Micro Jam Ziva Win:** First jam and i got da 1st place in ziva 🔥🔥🔥🔥🔥🔥
