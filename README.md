@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### gamedev and software 🔥🔥🔥🔥🔥
+### gamedev and software 🔥🔥🔥
 *making slop games AND software*
 
 <img src="https://raw.githubusercontent.com/DahMaus/DahMaus/main/cert_14.png" width="400" alt="Game Jam Certificate">
@@ -19,8 +19,8 @@
 | **Modding** | Minecraft Java |
 | **Security** | Cyber Security (Currently Learning) |
 
-### 📈 Current Focus
-* **Game Development:** Polishing my Unity workflow while diving deeper into Godot mechanics.
+### Current shi
+* **GameDev** Mostly in Unity, 2D is my strength can make 3d also tho
 * **Cyber Sec:** Junior, still learning ts shi.
 * **Automation:** Python bots on sum criminal shi 🔥🔥🔥jk made a survey bot (got banned 🥀).
 
