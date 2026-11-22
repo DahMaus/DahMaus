@@ -1,31 +1,28 @@
-## yo wsp 🦃
-
 <div align="center">
 
-### PROgramming 🔥🔥🔥
+### PROgramming
 *making slop games AND software*
 
 <img src="https://raw.githubusercontent.com/DahMaus/DahMaus/main/cert_14.png" width="400" alt="Game Jam Certificate">
 
 </div>
 
-### Tech skills on sum amazing shi
+### Tech skills lmfao
 
 | Field | Tech |
 | :--- | :--- |
 | **Game Dev** | **Unity (Main)**, **Godot (Learning)** |
 | **App Dev** | Android (Java & Kotlin) |
 | **Automation** | Python (Website Bots) |
-| **Modding** | Minecraft Java |
-| **Security** | Cyber Security (Currently Learning) |
+| **Modding** | Minecraft Java (made a HackClient lol) |
+| **Security** | Cyber Security |
 
-### Current focus shi
-* **GameDev** Mostly in Unity, 2D is my strength can make 3d also tho
-* **Cyber Sec:** learning with labs
-* **Automation:** Python bots on sum criminal shi 🔥🔥🔥 jk made a survey bot (got banned 🥀)
+### Current focus
+* **GameDev** Mostly in Unity, 2D is my strength can make 3d also though
+* **Youtube** Programming for my YT channel(s) 
 
-### 🏆 gamejam
-* **Micro Jam Ziva Win:** First jam and i got da 1st place in ziva 🔥🔥🔥🔥🔥🔥
+### gamejam
+* **Micro Jam Ziva Win:** First Game Jam ever participated
 
 <div align="center">
 
