@@ -11,7 +11,7 @@
 
 | Field | Tech |
 | :--- | :--- |
-| **Game Dev** | **Unity (Main)**, **Godot (Learning)** |
+| **Game Dev** | **Unity (Main)**, **Godot (not anymore learning, it sucks)** |
 | **App Dev** | Android (Java & Kotlin) |
 | **Automation** | Python (Website Bots) |
 | **Modding** | Minecraft Java (made a HackClient lol) |
